@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abpb2715/Abhay
 - 👀 I’m interested in Biopython, R and bioinformatics in general
-- 🌱 I’m currently learning basics of Python language 
+- 🌱 I’m currently learning basics of Python language using Atom code editor and terminal
 - 💞️ I’m looking to collaborate on multiple sequence alignments of specific set of bacterial genes and data visualization
 - 📫 How to reach me ...
 
